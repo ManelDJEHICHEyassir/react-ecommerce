@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.22e1987b.css",
+    "main.js": "/react-ecommerce/static/js/main.2066c05e.js",
+    "static/js/348.6c308c7f.chunk.js": "/react-ecommerce/static/js/348.6c308c7f.chunk.js",
+    "static/js/133.7e51a2b0.chunk.js": "/react-ecommerce/static/js/133.7e51a2b0.chunk.js",
+    "static/js/147.7b5ede7b.chunk.js": "/react-ecommerce/static/js/147.7b5ede7b.chunk.js",
+    "static/js/940.3b7a12f1.chunk.js": "/react-ecommerce/static/js/940.3b7a12f1.chunk.js",
+    "static/js/737.9424a25a.chunk.js": "/react-ecommerce/static/js/737.9424a25a.chunk.js",
+    "static/media/shopping-bag.svg": "/react-ecommerce/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/react-ecommerce/static/media/crown.207ae289b221bfaca0108507f9bb2f85.svg",
+    "index.html": "/react-ecommerce/index.html",
+    "main.22e1987b.css.map": "/react-ecommerce/static/css/main.22e1987b.css.map",
+    "main.2066c05e.js.map": "/react-ecommerce/static/js/main.2066c05e.js.map",
+    "348.6c308c7f.chunk.js.map": "/react-ecommerce/static/js/348.6c308c7f.chunk.js.map",
+    "133.7e51a2b0.chunk.js.map": "/react-ecommerce/static/js/133.7e51a2b0.chunk.js.map",
+    "147.7b5ede7b.chunk.js.map": "/react-ecommerce/static/js/147.7b5ede7b.chunk.js.map",
+    "940.3b7a12f1.chunk.js.map": "/react-ecommerce/static/js/940.3b7a12f1.chunk.js.map",
+    "737.9424a25a.chunk.js.map": "/react-ecommerce/static/js/737.9424a25a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e1987b.css",
+    "static/js/main.2066c05e.js"
+  ]
+}
